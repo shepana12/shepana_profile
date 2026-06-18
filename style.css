@@ -16,10 +16,6 @@ body {
   color: #333;
   line-height: 1.6;
 }
-
-
-/* Header */
-
 header {
   background: #0d47a1;
   color: white;
@@ -83,11 +79,6 @@ header {
   cursor: pointer;
 
 }
-
-
-
-/* Hero */
-
 .hero {
 
   min-height: 90vh;
@@ -110,16 +101,9 @@ header {
 
 }
 
-
-
 .hero-text {
-
   max-width: 650px;
-
 }
-
-
-
 .hero-text h2 {
 
   font-size: 42px;
@@ -129,9 +113,6 @@ header {
   margin-bottom: 20px;
 
 }
-
-
-
 .hero-text p {
 
   font-size: 18px;
@@ -189,11 +170,6 @@ header {
 
 }
 
-
-
-/* Sections */
-
-
 .section {
 
  padding:70px 8%;
@@ -238,11 +214,6 @@ header {
 }
 
 
-
-
-/* Family */
-
-
 .profile-box {
 
  display:flex;
@@ -271,10 +242,6 @@ header {
 
 }
 
-
-
-
-/* Gallery */
 
 
 .gallery {
@@ -316,9 +283,6 @@ header {
 
 
 
-/* Contact Form */
-
-
 form {
 
  display:flex;
@@ -352,12 +316,6 @@ textarea {
 
 }
 
-
-
-
-/* Footer */
-
-
 footer {
 
  background:#0d47a1;
@@ -370,9 +328,6 @@ footer {
 
 }
 
-
-
-/* Mobile */
 
 @media(max-width:768px){
 
